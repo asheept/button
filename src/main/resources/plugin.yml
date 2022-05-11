@@ -1,0 +1,9 @@
+main: com.asheept.button.ButtonPlugin
+version: 0.1
+name: Button
+api-version: 1.18
+
+commands:
+  timerset:
+  timer:
+  food:
